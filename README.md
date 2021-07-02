@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dolev Saliman
 
-- 👀 I’m interested in Information analysis, Machine Learning and every cool project.
-
 - 🌱 I’m currently learning BSC in Computer Science at Ariel University.
 
 - 💞️ Check out my projects, all of them arranged in my organizations.
